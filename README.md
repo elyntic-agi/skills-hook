@@ -1,4 +1,4 @@
-⚠️ This repo has been archived. Development continues in the [helios monorepo](https://github.com/helios-agi/helios) under `packages/skills-hook/`
+The [Elyntic monorepo](https://github.com/elyntic-agi/elyntic) contains this hook under `packages/skills-hook/` (private repository). This public fork remains available for reference.
 
 ---
 
